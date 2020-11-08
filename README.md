@@ -33,6 +33,9 @@ So, my path is long, and wonderful at the same time, and this is my journal at t
 <img src="https://i.imgur.com/XYrfI8p.png" align="left" alt="SHELL" width="26px" />
 <img src="https://i.imgur.com/QTepuH7.png" align="left" alt="GITHUB" width="26px" />
 <img src="https://i.imgur.com/HZNEqGx.png" align="left" alt="GIT" width="26px" />
+<img src="https://i.imgur.com/ffvMm8v.png" align="left" alt="PYTHON" width="26px" />
+<img src="https://i.imgur.com/wIslMRf.png" align="left" alt="C#" width="26px" />
+<img src="https://i.imgur.com/z6sAxZC.png" align="left" alt="VsCode" width="26px" />
 
 <br />
 
