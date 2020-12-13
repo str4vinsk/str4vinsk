@@ -1,25 +1,22 @@
-## Hi there, I'm <a href="https://github.com/str4vinsk"> Vitor </a> 👋 
+## Hi there, I'm <a href="https://github.com/str4vinsk"> Vitor </a> 👋
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vitorconroy/)](https://www.instagram.com/vitorconroy/)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC-7lbl0uTusOxLMAhnj79SQ)](https://www.youtube.com/channel/UC-7lbl0uTusOxLMAhnj79SQ)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Vitor_HC)](https://t.me/Vitor_HC)
 
 <img src="https://media2.giphy.com/media/pPARQMwZt43gmqesIQ/giphy.gif">
 
-I'm a developer and a hacking 🧑‍💻 student, i love the art of hacking and the entire world surrounding it.
+Hi, name's Vitor, I'm a developer and a hacking 🧑‍💻 student, i love technology and when i say it, it is for real, since from IoT development to machine learning or ethical hacking, everything sorouding the tech world, I LOVE IT.
 
-I'm currently learning about IoT and Web hacking, but for this, of course, i need to learn how to construct to after deconstruct!
-So, my path is long, and wonderful at the same time, and this is my journal at this journey.
 
-### Just a few curiosities
+
+### Just a few curiosities 
 
 - 🛸 I'm fascinated by the world myths and mysteries.
 - 🕵 I'm completely obsessed with puzzles and riddles. 
 - ⚡️ I wake up at 7am everyday, yep, i'm not lying.
 - 📁 💻 I’m currently learning web development.
 - 🚀 Hobbies other than coding : Playing competitive games, Writing journals, Drawing, Thinking about start a youtube channel or something.
-
-### Find me in:
-
-<a href="https://www.instagram.com/vitorconroy/"><img src="https://i.imgur.com/J4u1JR2.png" width="40px"></a>
-<a href="https://www.youtube.com/channel/UC-7lbl0uTusOxLMAhnj79SQ"><img src="https://i.imgur.com/4OcNHRi.png" width="30px"></a>
-<a href="https://t.me/Vitor_HC"><img src="https://i.imgur.com/ZzSHy4N.png" width="30px"></a>
 
 ---
 
@@ -47,6 +44,12 @@ So, my path is long, and wonderful at the same time, and this is my journal at t
   
   <img align='left'>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=str4vinsk&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</img>
 
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=str4vinsk&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 
 Thanks for being here and Good Hacking!!
