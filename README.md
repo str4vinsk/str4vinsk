@@ -6,7 +6,7 @@
 
 <img src="https://media2.giphy.com/media/pPARQMwZt43gmqesIQ/giphy.gif">
 
-Hi, name's Vitor, I'm a developer and a hacking 🧑‍💻 student, i love technology and when i say it, it is for real, since from IoT development to machine learning or ethical hacking, everything sorouding the tech world, I LOVE IT.
+Hi, name's Vitor, I'm a developer and a hacking 🧑‍💻 student, i love technology and when i say it, it is for real, since from IoT development to machine learning or ethical hacking, everything surrounding the tech world, I LOVE IT.
 
 
 
