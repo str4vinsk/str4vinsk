@@ -22,18 +22,15 @@ Hi, name's Vitor, I'm a developer and a hacking student, i love technology and w
 
 ### Languages and Tools:
 
-<img src="https://i.imgur.com/PECcPv9.png" align="left" alt="HTML" width="26px" />
-<img src="https://i.imgur.com/4DJrqAh.png" align="left" alt="CSS" width="26px" />
-<img src="https://i.imgur.com/gfHuH7x.png" align="left" alt="SASS" width="26px" />
-<img src="https://i.imgur.com/N7EhrNU.png" align="left" alt="JAVASCRIPT" width="26px" />
-<img src="https://i.imgur.com/JwiktZV.png" align="left" alt="REACT" width="26px" />
-<img src="https://i.imgur.com/XYrfI8p.png" align="left" alt="SHELL" width="26px" />
-<img src="https://i.imgur.com/QTepuH7.png" align="left" alt="GITHUB" width="26px" />
-<img src="https://i.imgur.com/HZNEqGx.png" align="left" alt="GIT" width="26px" />
-<img src="https://i.imgur.com/ffvMm8v.png" align="left" alt="PYTHON" width="26px" />
-<img src="https://i.imgur.com/MLlJ9Hn.png" align="left" alt="RUBY" width="26px" />
-<img src="https://i.imgur.com/wIslMRf.png" align="left" alt="C#" width="26px" />
-<img src="https://i.imgur.com/z6sAxZC.png" align="left" alt="VsCode" width="26px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="left" alt="html" width="26px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="left" alt="css" width="26px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="javascript" width="26px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" align="left" alt="react" width="26px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" align="left" alt="linux" width="26px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" align="left" alt="github" width="26px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" align="left" alt="git" width="26px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="left" alt="python" width="26px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" align="left" alt="ruby" width="26px" />
 
 <br />
 
