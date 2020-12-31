@@ -6,7 +6,7 @@
 
 <img src="https://media2.giphy.com/media/pPARQMwZt43gmqesIQ/giphy.gif">
 
-Hi, name's Vitor, I'm a developer and a hacking 🧑‍💻 student, i love technology and when i say it, it is for real, since from IoT development to machine learning or ethical hacking, everything surrounding the tech world, I LOVE IT.
+Hi, name's Vitor, I'm a developer and a hacking student, i love technology and when i say it, it is for real, since from IoT development to machine learning or ethical hacking, everything surrounding the tech world, I LOVE IT.
 
 
 
@@ -14,9 +14,9 @@ Hi, name's Vitor, I'm a developer and a hacking 🧑‍💻 student, i love tech
 
 - 🛸 I'm fascinated by the world myths and mysteries.
 - 🕵 I'm completely obsessed with puzzles and riddles. 
-- ⚡️ I wake up at 7am everyday, yep, i'm not lying.
-- 📁 💻 I’m currently learning web development.
-- 🚀 Hobbies other than coding : Playing competitive games, Writing journals, Drawing, Thinking about start a youtube channel or something.
+- :zap: I wake up at 7am everyday, yep, i'm not lying.
+- :computer: I’m currently learning web development.
+- :rocket: Hobbies other than coding : Playing competitive games, Writing journals, Drawing, Thinking about start a youtube channel or something.
 
 ---
 
@@ -42,14 +42,14 @@ Hi, name's Vitor, I'm a developer and a hacking 🧑‍💻 student, i love tech
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  <img align='left'>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=str4vinsk&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</img>
+  <img src="https://github-readme-stats.vercel.app/api?username=str4vinsk&hide_border=true&show_icons=true&theme=vision-friendly-dark" />
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:bulb: Most Used Languages</summary>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=str4vinsk&layout=compact&bg_color=ffffff&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=str4vinsk&theme=vision-friendly-dark&layout=compact&hide_border=true" />
 </details>
 
 Thanks for being here and Good Hacking!!
