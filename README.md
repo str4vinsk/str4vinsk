@@ -36,6 +36,16 @@ Hi, name's Vitor, I'm a developer and a hacking student, i love technology and w
 
 ---
 
+### :pencil2: Development Environment
+
+- Arch Linux
+- KDE
+- Vivaldi
+- Oh My Zsh
+- Vs Code
+
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
