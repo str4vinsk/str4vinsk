@@ -2,7 +2,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vitorconroy/)](https://www.instagram.com/vitorconroy/)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC-7lbl0uTusOxLMAhnj79SQ)](https://www.youtube.com/channel/UC-7lbl0uTusOxLMAhnj79SQ)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Vitor_HC)](https://t.me/Vitor_HC)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Vitor_HC)](https://t.me/str4vinsk)
 
 <img src="https://media2.giphy.com/media/pPARQMwZt43gmqesIQ/giphy.gif">
 
