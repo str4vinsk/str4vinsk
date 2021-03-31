@@ -34,6 +34,8 @@ Hi, name's Vitor, I'm a developer and a hacking student, i love technology and w
 
 <br />
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
