@@ -15,7 +15,7 @@ Hi, name's Vitor, I'm a developer and a hacking student, i love technology and w
 - 🛸 I'm fascinated by the world myths and mysteries.
 - 🕵 I'm completely obsessed with puzzles and riddles. 
 - :zap: I wake up at 7am everyday, yep, i'm not lying.
-- :computer: I’m currently learning web development.
+- 📫 How to reach me: vitorconroydev@gmail.com
 - :rocket: Hobbies other than coding : Playing competitive games, Writing journals, Drawing, Thinking about start a youtube channel or something.
 
 ---
