@@ -14,9 +14,9 @@ Hi, name's Vitor, I'm a developer and a hacking student, i love technology and w
 
 - 🛸 I'm fascinated by the world myths and mysteries.
 - 🕵 I'm completely obsessed with puzzles and riddles. 
-- :zap: I wake up at 7am everyday, yep, i'm not lying.
+- ⚡ I wake up at 7am everyday, yep, i'm not lying.
 - 📫 How to reach me: vitorconroydev@gmail.com
-- :rocket: Hobbies other than coding : Playing competitive games, Writing journals, Drawing, Thinking about start a youtube channel or something.
+- 🚀 Hobbies other than coding : Playing competitive games, Writing journals, Drawing, Thinking about start a youtube channel or something.
 
 ---
 
@@ -37,13 +37,13 @@ Hi, name's Vitor, I'm a developer and a hacking student, i love technology and w
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>⚡ GitHub Stats</summary>
   
   <img src="https://github-readme-stats.vercel.app/api?username=str4vinsk&hide_border=true&show_icons=true&theme=vision-friendly-dark" />
 </details>
 
 <details>
-  <summary>:bulb: Most Used Languages</summary>
+  <summary>💡 Most Used Languages</summary>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=str4vinsk&theme=vision-friendly-dark&layout=compact&hide_border=true" />
 </details>
