@@ -1,22 +1,26 @@
 ## Hi there, I'm <a href="https://github.com/str4vinsk"> Vitor </a> 👋
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vitorconroy/)](https://www.instagram.com/vitorconroy/)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC-7lbl0uTusOxLMAhnj79SQ)](https://www.youtube.com/channel/UC-7lbl0uTusOxLMAhnj79SQ)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Vitor_HC)](https://t.me/str4vinsk)
-
-<img src="https://media2.giphy.com/media/pPARQMwZt43gmqesIQ/giphy.gif">
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorconroy/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-7lbl0uTusOxLMAhnj79SQ)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/str4vinsk)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ConroyVitor)
 
 Hi, name's Vitor, I'm a developer and a hacking student, i love technology and when i say it, it is for real, since from IoT development to machine learning or ethical hacking, everything surrounding the tech world, I LOVE IT.
 
-
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=str4vinsk&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=str4vinsk&theme=dracula&layout=compact" />
+</div>
+  
 ### Just a few curiosities 
 
-- 🛸 I'm fascinated by the world myths and mysteries.
+<img src="https://media2.giphy.com/media/pPARQMwZt43gmqesIQ/giphy.gif">
+
+- 🚀 I'm fascinated by the outer space and its mysteries!!
 - 🕵 I'm completely obsessed with puzzles and riddles. 
 - ⚡ I wake up at 7am everyday, yep, i'm not lying.
 - 📫 How to reach me: vitorconroydev@gmail.com
-- 🚀 Hobbies other than coding : Playing competitive games, Writing journals, Drawing, Thinking about start a youtube channel or something.
+- ✍️ Hobbies other than coding : Playing competitive games, Writing journals, Drawing, Thinking about start a youtube channel or something.
 
 ---
 
@@ -35,17 +39,5 @@ Hi, name's Vitor, I'm a developer and a hacking student, i love technology and w
 <br />
 
 ---
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=str4vinsk&hide_border=true&show_icons=true&theme=vision-friendly-dark" />
-</details>
-
-<details>
-  <summary>💡 Most Used Languages</summary>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=str4vinsk&theme=vision-friendly-dark&layout=compact&hide_border=true" />
-</details>
 
 Thanks for being here and Good Hacking!!
