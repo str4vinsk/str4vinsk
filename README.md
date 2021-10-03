@@ -1,9 +1,7 @@
 ## Hi there, I'm <a href="https://github.com/str4vinsk"> V </a> 👋
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorconroy/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-7lbl0uTusOxLMAhnj79SQ)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/str4vinsk)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ConroyVitor)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/str4vinsk)
 
 Hi, call me V, I'm a developer and a hacking student, i love technology and when i say it, it is for real, since from IoT development to machine learning or ethical hacking, everything surrounding the tech world, I LOVE IT.
 
