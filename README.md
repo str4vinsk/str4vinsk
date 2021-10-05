@@ -5,11 +5,6 @@
 
 Hi, call me V, I'm a developer and a hacking student, i love technology and when i say it, it is for real, since from IoT development to machine learning or ethical hacking, everything surrounding the tech world, I LOVE IT.
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=str4vinsk&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=str4vinsk&theme=dracula&layout=compact" />
-</div>
-  
 ### Just a few curiosities 
 
 <img src="https://media2.giphy.com/media/pPARQMwZt43gmqesIQ/giphy.gif">
@@ -20,6 +15,13 @@ Hi, call me V, I'm a developer and a hacking student, i love technology and when
 - 📫 How to reach me: str4vinskisalive69@gmail.com
 - ✍️ Hobbies other than coding : Playing competitive games, Writing journals, Drawing, Thinking about start a youtube channel or something.
 
+---
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=str4vinsk&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=str4vinsk&theme=dracula&layout=compact" />
+</div>
+  
 ---
 
 ### Languages and Tools:
